@@ -1,4 +1,3 @@
-
 SELECT DISTINCT f1.x,f1.y 
 FROM   functions f1 
        inner join functions f2 
